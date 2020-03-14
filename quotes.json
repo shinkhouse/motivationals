@@ -1,0 +1,74 @@
+var quotes = [
+    {
+        "quote": "It is easier to fight for ones principles than to live up to them.",
+        "author": "Alfred Alder"
+    },
+    {
+        "quote": "Adopt the pace of nature, her secret is patience.",
+        "author": "Ralph Waldo Emerson"
+    },
+    {
+        "quote": "We are what we repeatedly do. Excellence, therefore is not an act but a habit.",
+        "author": "Aristotle"
+    },
+    {
+        "quote": "You are here to enable the divine purpose of the universe to unfold. That is how important you are!",
+        "author": "Eckhart Tolle"
+    },
+    {
+        "quote": "Obstacles are those frightful things you see when you take your eyes off of your goal.",
+        "author": "Henry Ford"
+    },
+    {
+        "quote": "The twin killers of success are impatience and greed.",
+        "author": "Jim Rohn"
+    },
+    {
+        "quote": "Success is often achieved by those who don't know that failure is inevitable.",
+        "author": "Coco Chanel"
+    },
+    {
+        "quote": "Act as if what you do makes a difference. It does.",
+        "author": "William James"
+    },
+    {
+        "quote": "Genius is nothing but a greater aptitude for patience.",
+        "author": "Ben Franklin"
+    },
+    {
+        "quote": "Time is our most valuable asset, yet we tend to waste it, kill it, and spend it rather than invest it.",
+        "author": "Jim Rohn"
+    },
+    {
+        "quote": "What you do every day matters more than what you do every once in a while. ",
+        "author": "Unknown"
+    },
+    {
+        "quote": "If your actions inspire others to dream more, learn more, do more and become more, you are a leader.",
+        "author": ""
+    },
+    {
+        "quote": "I destroy my enemies when I make them my friends.",
+        "author": "Abraham Lincoln"
+    },
+    {
+        "quote": "If your actions inspire others to dream more, learn more, do more and become more, you are a leader.",
+        "author": "John Quincy Adams"
+    },
+    {
+        "quote": "Prosperity is a great teacher; adversity is a greater one.",
+        "author": "William Hazlitt"
+    },
+    {
+        "quote": "Evaluation of the past is the first step toward vision for the future.",
+        "author": "Chris Widener"
+    },
+    {
+        "quote": "You can't build a reputation on what you're going to do.",
+        "author": "Henry Ford"
+    },
+    {
+        "quote": "Most people fail in life because they major in minor things.",
+        "author": "Tony Robbins"
+    }
+]
